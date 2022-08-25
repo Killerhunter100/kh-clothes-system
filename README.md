@@ -1,9 +1,9 @@
 # kh-clothes-system
  QB Clothes Menu with Kh-context
 
-#Notice
+# Notice
 The Script Lang is Arabic For Now Later I will Make It In English Version
 
-#Dependency
+# Dependency
 
 Kh-context
